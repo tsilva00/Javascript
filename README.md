@@ -13,3 +13,9 @@ Curso de Javascript com vários exercícios
 <ul>
 <li>Add the equality operator to the indicated line so that the function will return the string Equal when val is equivalent to 12.</li>
 </ul>
+
+<h3>toJadenCase</h3>
+<ul>
+<li>Convert strings to how they would be written by Jaden Smith.</li>
+<li>The strings are actual quotes from Jaden Smith, but they are not capitalized in the same way he originally typed them.</li>
+</ul>
