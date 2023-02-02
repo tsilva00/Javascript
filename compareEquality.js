@@ -1,6 +1,7 @@
 // Setup
 function compareEquality(a, b) {
-  if (typeof(a) == typeof(b)) { // Change this line
+  if (typeof(a) == typeof(b)) //Another possibility instead of typeof put '==='
+  { 
     return "Equal";
   }
   return "Not Equal";
